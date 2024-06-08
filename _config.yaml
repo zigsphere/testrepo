@@ -1,0 +1,14 @@
+title: IT thoughts...
+author:
+  name: Joseph Ziegler
+  email: joseph@josephziegler.com
+description:
+  Test page
+baseurl: ""
+url: foo.github.io
+github_username:  zigsphere
+
+minima:
+  skin: dark  # having no effect
+
+theme: minima
