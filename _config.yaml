@@ -4,8 +4,8 @@ author:
   email: joseph@josephziegler.com
 description:
   Test page
-baseurl: ""
-url: foo.github.io
+baseurl: "/"
+url: blog.josephziegler.com/testrepo
 github_username:  zigsphere
 
 minima:
